@@ -6,7 +6,7 @@
     git clone https://github.com/suleyman-yilmaz/stok-v1.0.git
     ```
 # Veri Tabanı Kurma
-!!! Bilgisayarınızda bulunan Microsoft Sql Server Management Studio versiyonu v19.3 ve daha yüksek bir sürüm olmalı. Aynı zamanda SQLEXPRESS versiyonunuz ise "15.0.2000.5" veya daha yüksek bir sürüm olmalı.
+!!! Bilgisayarınızda bulunan Microsoft Sql Server Management Studio versiyonu v19.3 veya daha yüksek bir sürüm olmalı. Aynı zamanda SQLEXPRESS versiyonunuz ise "15.0.2000.5" veya daha yüksek bir sürüm olmalı.
 1. İndirdiğiniz proje dosyasını masaüstüne klasör olarak çıkartın.
 2. Microsoft Sql Server Management Studio yu çalıştırınız. Bağlantınızı gerçekleşitriniz.
 3. Object Explorer kısmında bulunan "Databases" e sağ tıklayarak açılan menüde "Import Data-tier Application" a tıklayın.
